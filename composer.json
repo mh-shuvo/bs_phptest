@@ -1,0 +1,17 @@
+{
+    "name": "mhshuvo/category_tree",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MD. Mehedi Hasan Shuvo",
+            "email": "shuvo@asl.aero"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
